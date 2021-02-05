@@ -1,0 +1,27 @@
+.levels {
+  text-align: center;
+}
+.level1 {
+  background-color: rgb(3, 68, 65);
+}
+
+.level2 {
+  background-color: rgb(73, 14, 3);
+}
+
+.level3 {
+  background-color: rgb(55, 4, 78);
+}
+
+.level4 {
+  background-color: rgb(1, 70, 29);
+}
+
+p {
+  color: white;
+  font-size: smaller;
+}
+
+h3 {
+  color: white;
+}
